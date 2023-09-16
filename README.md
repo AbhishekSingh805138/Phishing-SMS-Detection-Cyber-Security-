@@ -1,1 +1,1 @@
-# Spam Sms Classifier-Machine-Learning-Project-
+# Sms-spam Classifier-Machine-Learning-Project-
