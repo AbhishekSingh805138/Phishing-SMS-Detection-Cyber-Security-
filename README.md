@@ -1,1 +1,1 @@
-# Phishing-SMS-Detection-Machine-Learning-Project-
+# Spam Sms Classifier-Machine-Learning-Project-
